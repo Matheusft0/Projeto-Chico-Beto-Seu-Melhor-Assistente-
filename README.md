@@ -109,7 +109,12 @@ Este projeto usa um código Python pra fazer o Chico Beto funcionar. Pra ele pro
 
 **Chico Bento:** *"De nada, cumpadi! Fico felizão de ajudá e amo ser seu assistente aqui. Vorta sempre que precisá, viu?! Inté mais ver! 👋"*
 
-Este projeto une a tecnologia com a simpatia e simplicidade do campo, tornando a experiência de compra mais agradável e eficiente para todos! Esperamos que goste!
+
+## Veja uma prévia do Projeto Chico Bento!
+* Você pode baixar ao vídeo do projeto [clicando aqui](Projeto_Chico_Bento.mp4).
+
+
+Este projeto une a tecnologia com a simpatia e simplicidade do campo, tornando a experiência de compra mais agradável e eficiente para todos! Espero que goste!
 
 Att,
 
