@@ -43,7 +43,7 @@ Este projeto usa um código Python pra fazer o Chico Beto funcionar. Pra ele pro
 
      2. Olhe lá em riba, na barra de endereço do seu navegador. O endereço vai ser comprido, mas no meio dele tem uma parte assim:
         `.../spreadsheets/d/`**`AQUI_FICA_O_ID_DA_SUA_PLANILHA`**`/edit...`
-        *Exemplo de ID:* `18ifJ-jluweIMI_1VwFtsNqbApZWwo3kwsuOpB2OcYa0` (o seu vai ser diferente!)
+        *Exemplo de ID:* `18ifJ-jluweYUY_1MwYtsNqbApABwo3kwsuOp21OcYa0` (o seu vai ser diferente!)
 
      3. Copie esse monte de letra e número! É ele que vosmecê vai colocar no código Python do Chico, naquela variável `spreadsheet_id`.
 
