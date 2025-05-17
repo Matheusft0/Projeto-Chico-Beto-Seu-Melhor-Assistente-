@@ -18,9 +18,9 @@ E aí, cumpadi e cumadi! Já se sentiu mais perdido que cego em tiroteio nas pra
 
 * E quando dá aquela vontade de um biscoito integral? Tem tanta marca... Qual levá? O mais barato? O mais gostoso? Um de cada pra num errá? É dúvida que não acaba mais! 🍪🤔
 
-## ✨ A Ajuda do Chico Beto:
+## ✨ A Ajuda do Chico Bento:
 
-Imagina só: você chega no mercado e dá de cara com o Chico Beto, prontinho pra te atendê num painel digital ou direto no seu celular! Com dois dedo de prosa, ele te ajuda:
+Imagina só: você chega no mercado e dá de cara com o Chico Bento, prontinho pra te atendê num painel digital ou direto no seu celular! Com dois dedo de prosa, ele te ajuda:
 
 * **Achar os produto:** "Chico, onde é que tá o fubá pra polenta?" E ele te explica o caminho direitinho! 🗺️
 
@@ -32,7 +32,7 @@ Imagina só: você chega no mercado e dá de cara com o Chico Beto, prontinho pr
 
 ## ⚙️ Pra Botar o Chico pra Funcionar, Vosmecê Vai Precisar de:
 
-Este projeto usa um código Python pra fazer o Chico Beto funcionar. Pra ele prosear direitinho e te ajudar, tem uns segredinhos:
+Este projeto usa um código Python pra fazer o Chico Bento funcionar. Pra ele prosear direitinho e te ajudar, tem uns segredinhos:
 
 1. **O Código do Chico (`.py`):** É o arquivo principal com toda a inteligência dele. É esse que tá aqui no GitHub!
 
@@ -86,10 +86,10 @@ Este projeto usa um código Python pra fazer o Chico Beto funcionar. Pra ele pro
 
 ## 🗣️ Um Dedinho de Prosa com o Chico (Exemplo de Conversa):
 
-**Vosmecê:** *"Olha só, lançaro o Chico Beto, um assistente aqui no mercado! Deixa eu ver como é que funciona esse trem..."*
+**Vosmecê:** *"Olha só, lançaro o Chico Bento, um assistente aqui no mercado! Deixa eu ver como é que funciona esse trem..."*
 **Vosmecê:** *"Hum... acho que é só apertá aqui pra 'Começá Prosa'."*
 
-**Chico Bento:** *"Olá, cumpadi, olá, cumadi! Sou o Chico Beto, seu mió assistente nas hora das compra! Em que posso ajudá vosmecês hoje? É só escrevê o que precisa que eu dou um jeito de orientá!"*
+**Chico Bento:** *"Olá, cumpadi, olá, cumadi! Sou o Chico Bento, seu mió assistente nas hora das compra! Em que posso ajudá vosmecês hoje? É só escrevê o que precisa que eu dou um jeito de orientá!"*
 
 **Vosmecê:** *"Chico, preciso sabê onde tão os biscoito integral. Queria um que fosse bão e num muito caro. Qual vosmecê me indica?"*
 
