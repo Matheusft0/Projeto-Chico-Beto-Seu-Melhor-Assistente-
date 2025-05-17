@@ -1,7 +1,8 @@
 # 🤠 Projeto Chico Bento – Seu Amigo Caipira nas Compras!
 
 <p align="center">
-  <img src="https://placehold.co/300x200/A9D9A7/4F7942?text=Chico+Bento+Ajudante&font=Chewy" alt="Imagem do Chico Bento sorrindo e acenando, talvez com uma cesta de compras">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHcKr87vpx1hpch8O-5wr3EYbgX5g4L4F6UoHp1_vI4tIwl6dKwbby_hYidBuSxpnXO9Y&usqp=CAU" alt="Imagem do Chico Bento" width="300">
+  <br>
 </p>
 
 E aí, cumpadi e cumadi! Já se sentiu mais perdido que cego em tiroteio nas prateleira do mercado? Nóis sabe como é! Fila grande, tempo curto, e cadê aquele produto que a gente precisa? Eita, aperreio! 😫
