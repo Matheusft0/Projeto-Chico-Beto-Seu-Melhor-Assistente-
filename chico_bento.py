@@ -35,7 +35,7 @@ except Exception as e:
 
 # Carregar a planilha
 # Substitua pelo ID da sua planilha. Certifique-se que ela existe e você tem acesso.
-spreadsheet_id = "18ifJ-jluweIMI_1VwFtsNqbApZWwo3kwsuOpB2OcYa0" # MANTENHA O ID FORNECIDO PELO USUÁRIO
+spreadsheet_id = "(ID) da sua Planilha" # MANTENHA O ID FORNECIDO PELO USUÁRIO
 df = pd.DataFrame() # Inicializa df vazio para o caso de falha no carregamento
 
 try:
