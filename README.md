@@ -1,7 +1,7 @@
 # 🤠 Projeto Chico Bento – Seu Amigo Caipira nas Compras!
 
 <p align="center">
-  <img src="IMAGEM DO CHICO.PNG" alt="Imagem do Chico Bento" width="300">
+  <img src="Imagem do Chico Bento.png" alt="Imagem do Chico Bento" width="300">
   
   <br>
 </p>
